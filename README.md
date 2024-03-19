@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @krypton-io
-- 👀 I’m interested in  Embedded Systems, IoT, Machine Learning, Photography, Music
+- 👀 I’m interested in  Web Development, Embedded Systems, IoT, Machine Learning, Photography, Music
 - 🌱 I’m currently learning PHP Laravel

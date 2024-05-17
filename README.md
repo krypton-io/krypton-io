@@ -2,4 +2,4 @@
 
 👀 Interest in Web Development, Embedded Systems, IoT, Machine Learning, Photography, Music
 
-🌱 I’m mastering Ruby, I am currently using React and Ruby for our in-house Print Automation Web Server
+🌱 I’m mastering Ruby, I am currently using React and Ruby for our in-house Print Test Automation Web Server
